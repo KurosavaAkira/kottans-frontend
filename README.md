@@ -1,5 +1,7 @@
 # Kottans Front-End Course
 
+#### [Course page](https://github.com/kottans/frontend)
+
 ## Stage 0. Self-Study
 
 ### General Basics
