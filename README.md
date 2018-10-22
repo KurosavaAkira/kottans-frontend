@@ -7,7 +7,7 @@
 ### General Basics
 
 - [x] 0. Git Basics
- 1. [Linux CLI and Networking](task_1/README.md)
+- [x] 1. [Linux CLI and Networking](task_1/README.md)
  2. [VCS (hello gitty), GitHub and Collaboration](task_2/README.md)
 
 ### Front-End Basics
