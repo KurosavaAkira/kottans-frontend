@@ -8,12 +8,12 @@
 
 - [x] 0. Git Basics
 - [x] 1. [Linux CLI and Networking](task_1/README.md)
- 2. [VCS (hello gitty), GitHub and Collaboration](task_2/README.md)
+- [x] 2. [VCS (hello gitty), GitHub and Collaboration](task_2/README.md)
 
 ### Front-End Basics
 
- 3. Intro to HTML&nbsp;&amp;&nbsp;CSS
- 4. Responsive Web Design
+- [x] 3. Intro to HTML&nbsp;&amp;&nbsp;CSS
+- [x] 4. Responsive Web Design
  5. Intro to JS
  6. Document Object Model
 
