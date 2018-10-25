@@ -6,21 +6,23 @@
 
 ### General Basics
 
-- [x] 0. Git Basics
-- [x] 1. [Linux CLI and Networking](task_1/README.md)
-- [x] 2. [VCS (hello gitty), GitHub and Collaboration](task_2/README.md)
+- [x] 0. Git and GitHub
+- [x] 1. Linux, Command Line, HTTP Tools
+- [x] 2. Git for Team Collaboration
 
 ### Front-End Basics
 
 - [x] 3. Intro to HTML&nbsp;&amp;&nbsp;CSS
-- [x] 4. Responsive Web Design
- 5. Intro to JS
+- [x] 4. Responsive Layouts
+- [x] 5. JavaScript Basics
  6. Document Object Model
+ 7. Building a Tiny JS World
 
 ### Advanced Topics
 
- 7. Object oriented JS
- 8. Offline Web Applications
- 9. Memory pair game — real project!
-10. Website Performance Optimization
-11. Weather App — real project!
+ 8. Object-Oriented JavaScript
+ 9. OOP exercise
+ 10 . Offline Web Applications
+ 11. Memory pair game 
+ 12. Website Performance Optimization
+ 13. Weather App 
