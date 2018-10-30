@@ -2,4 +2,4 @@
 
 #### Document Object Model
 
-## [Practical task - demo](https://github.com/KurosavaAkira/kottans-frontend/task_js_dom/practical_task/index.html)
+## [Practical task - demo](https://kurosavaakira.github.io/kottans-frontend/task_js_dom/practical_task/)
