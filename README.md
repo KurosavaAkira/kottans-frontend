@@ -6,23 +6,23 @@
 
 ### General Basics
 
-- [x] 0. Git and GitHub
-- [x] 1. Linux, Command Line, HTTP Tools
-- [x] 2. Git for Team Collaboration
+- [x] 0. Git Basics
+- [x] 1. Linux CLI and Networking
+- [x] 2. VCS (hello gitty), GitHub and Collaboration
 
 ### Front-End Basics
 
 - [x] 3. Intro to HTML&nbsp;&amp;&nbsp;CSS
-- [x] 4. Responsive Layouts
+- [x] 4. Responsive Web Design
 - [x] 5. JavaScript Basics
- 6. Document Object Model
- 7. Building a Tiny JS World
+- [x] 6. [DOM](https://github.com/KurosavaAkira/kottans-frontend/task_js_dom)
 
 ### Advanced Topics
 
+ 7. Building a Tiny JS World
  8. Object-Oriented JavaScript
  9. OOP exercise
- 10 . Offline Web Applications
+ 10. Offline Web Applications
  11. Memory pair game 
  12. Website Performance Optimization
  13. Weather App 
