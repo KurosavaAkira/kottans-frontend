@@ -15,7 +15,7 @@
 - [x] 3. Intro to HTML&nbsp;&amp;&nbsp;CSS
 - [x] 4. Responsive Web Design
 - [x] 5. JavaScript Basics
-- [x] 6. [DOM](https://github.com/KurosavaAkira/kottans-frontend/task_js_dom)
+- [x] 6. [DOM](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_js_dom)
 
 ### Advanced Topics
 
