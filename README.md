@@ -1,3 +1,5 @@
+[![Kottans-Student-Git-revert](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20git%20revert-orange.svg)](https://github.com/kottans/frontend)
+
 # Kottans Front-End Course
 
 #### [Course page](https://github.com/kottans/frontend)
