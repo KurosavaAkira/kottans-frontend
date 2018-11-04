@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+body, html {
+    background-image: radial-gradient(circle, #e1eeff, #acbbd0, #7a8ba2, #4a5e77, #1c344e);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
