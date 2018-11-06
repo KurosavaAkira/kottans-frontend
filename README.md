@@ -8,7 +8,7 @@
 
 ### General Basics
 
-- [x] 0. [Git Basics](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_js_basics)
+- [x] 0. Git Basics
 - [x] 1. [Linux CLI and Networking](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_linux-cli-http)
 - [x] 2. [VCS (hello gitty), GitHub and Collaboration](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_git_collaboration)
 
@@ -23,8 +23,8 @@
 
 - [x]  7. [Building a Tiny JS World](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_js-pre-oop) Reviewed and approved by @OleksiyRudenko
 - [ ] 8. Object-Oriented JavaScript
- 9. OOP exercise
- 10. Offline Web Applications
- 11. Memory pair game 
- 12. Website Performance Optimization
- 13. Weather App 
+- [ ] 9. OOP exercise
+- [ ] 10. Offline Web Applications
+- [ ] 11. Memory pair game 
+- [ ] 12. Website Performance Optimization
+- [ ] 13. Weather App 
