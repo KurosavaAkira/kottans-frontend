@@ -17,12 +17,12 @@
 - [x] 3. [Intro to HTML&nbsp;&amp;&nbsp;CSS](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_git_html_css_intro)
 - [x] 4. [Responsive Web Design](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_responsive_web_design)
 - [x] 5. [JavaScript Basics](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_js_basics)
-- [x] 6. [DOM](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_js_dom) Reviewed and approved by @OleksiyRudenko
+- [x] 6. [DOM](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_js_dom) - Reviewed and approved by @<OleksiyRudenko>
 
 ### Advanced Topics
 
-- [x]  7. [Building a Tiny JS World](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_js-pre-oop) Reviewed and approved by @OleksiyRudenko
-- [ ] 8. Object-Oriented JavaScript
+- [x]  7. [Building a Tiny JS World](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_js-pre-oop) - Reviewed and approved by @<OleksiyRudenko>
+- [x] 8. [Object-Oriented JavaScript](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_js_oop)
 - [ ] 9. OOP exercise
 - [ ] 10. Offline Web Applications
 - [ ] 11. Memory pair game 
