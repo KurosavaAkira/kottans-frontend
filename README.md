@@ -24,7 +24,7 @@
 - [x]  7. [Building a Tiny JS World](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_js-pre-oop) - Reviewed and approved by @OleksiyRudenko
 - [x] 8. [Object-Oriented JavaScript](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_js_oop)- Reviewed and approved by @OleksiyRudenko
 - [x] 9. OOP exercise - Reviewed and approved by @OleksiyRudenko
-- [ ] 10. Offline Web Applications
-- [ ] 11. Memory pair game 
+- [x] 10. Offline Web Applications
+- [x] 11. Memory pair game - Reviewed and approved by @zonzujiro
 - [ ] 12. Website Performance Optimization
 - [ ] 13. Weather App 
