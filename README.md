@@ -27,4 +27,4 @@
 - [x] 10. Offline Web Applications
 - [x] 11. [Memory pair game](https://github.com/KurosavaAkira/memory-pair-game) - Reviewed and approved by @zonzujiro
 - [ ] 12. Website Performance Optimization
-- [x] 13. [Weather App](https://kurosavaakira.github.io/friends-app/) - Reviewed and approved by @zonzujiro and @lempiy
+- [x] 13. [Friends App](https://kurosavaakira.github.io/friends-app/) - Reviewed and approved by @zonzujiro and @lempiy
