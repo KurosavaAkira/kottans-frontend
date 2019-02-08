@@ -9,22 +9,22 @@
 ### General Basics
 
 - [x] 0. Git Basics
-- [x] 1. [Linux CLI and Networking](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_linux-cli-http)
-- [x] 2. [VCS (hello gitty), GitHub and Collaboration](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_git_collaboration)
+- [x] 1. [Linux CLI and Networking](https://github.com/kaizengami/kottans-frontend/tree/master/task_linux-cli-http)
+- [x] 2. [VCS (hello gitty), GitHub and Collaboration](https://github.com/kaizengami/kottans-frontend/tree/master/task_git_collaboration)
 
 ### Front-End Basics
 
-- [x] 3. [Intro to HTML&nbsp;&amp;&nbsp;CSS](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_git_html_css_intro)
-- [x] 4. [Responsive Web Design](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_responsive_web_design)
-- [x] 5. [JavaScript Basics](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_js_basics)
-- [x] 6. [DOM](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_js_dom) - Reviewed and approved by @OleksiyRudenko
+- [x] 3. [Intro to HTML&nbsp;&amp;&nbsp;CSS](https://github.com/kaizengami/kottans-frontend/tree/master/task_git_html_css_intro)
+- [x] 4. [Responsive Web Design](https://github.com/kaizengami/kottans-frontend/tree/master/task_responsive_web_design)
+- [x] 5. [JavaScript Basics](https://github.com/kaizengami/kottans-frontend/tree/master/task_js_basics)
+- [x] 6. [DOM](https://github.com/kaizengami/kottans-frontend/tree/master/task_js_dom) - Reviewed and approved by @OleksiyRudenko
 
 ### Advanced Topics
 
-- [x]  7. [Building a Tiny JS World](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_js-pre-oop) - Reviewed and approved by @OleksiyRudenko
-- [x] 8. [Object-Oriented JavaScript](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_js_oop)- Reviewed and approved by @OleksiyRudenko
+- [x]  7. [Building a Tiny JS World](https://github.com/kaizengami/kottans-frontend/tree/master/task_js-pre-oop) - Reviewed and approved by @OleksiyRudenko
+- [x] 8. [Object-Oriented JavaScript](https://github.com/kaizengami/kottans-frontend/tree/master/task_js_oop)- Reviewed and approved by @OleksiyRudenko
 - [x] 9. OOP exercise - Reviewed and approved by @OleksiyRudenko
 - [ ] 10. Offline Web Applications
-- [x] 11. [Memory pair game](https://github.com/KurosavaAkira/memory-pair-game) - Reviewed and approved by @zonzujiro
+- [x] 11. [Memory pair game](https://github.com/kaizengami/memory-pair-game) - Reviewed and approved by @zonzujiro
 - [ ] 12. Website Performance Optimization
-- [x] 13. [Friends App](https://kurosavaakira.github.io/friends-app/) - Reviewed and approved by @zonzujiro and @lempiy
+- [x] 13. [Friends App](https://kaizengami.github.io/friends-app/) - Reviewed and approved by @zonzujiro and @lempiy
